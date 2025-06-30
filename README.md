@@ -1,6 +1,5 @@
 **About the Project**
-The World Happiness Report is an annual publication ranking 155+ countries by happiness levels, first released in 2012. Produced by the UN Sustainable Development Solutions Network, it has become a crucial benchmark for policymakers
-to evaluate national progress beyond economic indicators alone.
+The World Happiness Report is an annual publication ranking 155+ countries by happiness levels, first released in 2012. Produced by the UN Sustainable Development Solutions Network, it has become a crucial benchmark for policymakers to evaluate national progress beyond economic indicators alone.
 
 
 **Problem Statement:**
