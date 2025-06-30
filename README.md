@@ -51,3 +51,7 @@ The World Happiness Report ranks countries by happiness levels based on Gallup W
 
 Business Case:
 We are a pharmaceutical company seeking to expand our antidepressant sales in markets with stable governance (low corruption), strong economies (high GDP per capita), and robust social support systems — factors that correlate with better healthcare infrastructure and higher purchasing power. Using the World Happiness Report 2019 dataset, we will analyze these variables alongside overall happiness scores to identify countries where demand for mental health treatments may be high and market conditions favorable for growth.
+
+Possible Hypothesis: 
+"Countries with high GDP, low corruption, and strong social support—but middling happiness scores (5.0–6.5)—represent optimal markets for antidepressant sales due to unmet mental health needs despite favorable
+socioeconomic conditions."
