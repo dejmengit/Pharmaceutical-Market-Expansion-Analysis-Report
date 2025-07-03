@@ -1,4 +1,4 @@
-**Pharmaceutical Market Expansion Analysis Report**
+**Pharmaceutical Market Expansion Analysis Report**  
 Using World Happiness Report & Economic Freedom Index from 2019  
 
 Our objective is to identify optimal countries for antidepressant sales expansion based on: 
