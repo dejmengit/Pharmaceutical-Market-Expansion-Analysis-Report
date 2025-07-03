@@ -1,6 +1,9 @@
 **Pharmaceutical Market Expansion Analysis Report**  
 Using World Happiness Report & Economic Freedom Index from 2019  
 
+**Project Summary:**  
+This analysis identifies optimal markets for antidepressant expansion by evaluating countries with strong economies (high GDP), stable governance (low corruption), and robust social support, but moderate happiness scores (5.0-6.5) - suggesting unmet mental health needs. Using World Happiness Report and Economic Freedom Index data (2019), we target nations where socioeconomic conditions favor healthcare investment while indicating potential demand gaps. The goal is to prioritize risk-averse, high-potential markets for pharmaceutical growth.  
+  
 Our objective is to identify optimal countries for antidepressant sales expansion based on: 
   
 ✅ Economic stability (High GDP per capita, business freedom)  
