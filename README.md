@@ -22,3 +22,6 @@ We aim to expand antidepressant sales in stable, high-potential markets by analy
 **Hypothesis:**   
 "Countries with high GDP, low corruption, and strong social support—but middling happiness scores (5.0–6.5)—represent optimal markets for antidepressant sales due to unmet mental health needs despite favorable
 socioeconomic conditions."
+
+Presentation:  
+https://docs.google.com/presentation/d/1OAkfkH4ma21ASwFwI7wQ47pqn1N6FzT8nzhn74otimI/edit?slide=id.p#slide=id.p
