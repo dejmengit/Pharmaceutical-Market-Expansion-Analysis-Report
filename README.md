@@ -1,8 +1,7 @@
 **Pharmaceutical Market Expansion Analysis Report**
 Using World Happiness Report & Economic Freedom Index from 2019  
 
-Objective
-Identify optimal countries for antidepressant sales expansion based on:  
+Our objective is to identify optimal countries for antidepressant sales expansion based on:  
 ✅ Economic stability (High GDP per capita, business freedom)  
 ✅ Governance (Low corruption perception)  
 ✅ Social support (Strong community networks)  
