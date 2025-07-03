@@ -14,6 +14,6 @@ We aim to expand antidepressant sales in stable, high-potential markets by analy
 ✅ Robust social support (Healthcare access)  
 ✅ Moderate happiness scores (7, suggesting unmet mental health needs).  
   
-Possible Hypothesis: 
+**Hypothesis:**   
 "Countries with high GDP, low corruption, and strong social support—but middling happiness scores (5.0–6.5)—represent optimal markets for antidepressant sales due to unmet mental health needs despite favorable
 socioeconomic conditions."
