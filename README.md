@@ -24,4 +24,4 @@ We aim to expand antidepressant sales in stable, high-potential markets by analy
 socioeconomic conditions."
 
 Presentation:  
-https://docs.google.com/presentation/d/1OAkfkH4ma21ASwFwI7wQ47pqn1N6FzT8nzhn74otimI/edit?slide=id.p#slide=id.p
+https://docs.google.com/presentation/d/1OAkfkH4ma21ASwFwI7wQ47pqn1N6FzT8nzhn74otimI/edit?slide=id.g36d0f1cbf23_0_1069#slide=id.g36d0f1cbf23_0_1069
